@@ -1,0 +1,91 @@
+Explicació dels jocs de prova
+
+Fase 1: Bàsics i introducció
+
+    1. La meva interpretació del hello world
+    (Introducció senzilla amb display i newline.)
+
+    2. Declaració de constant global i aritmètica senzilla
+    (Primer ús de constants globals i operacions bàsiques.)
+
+Fase 2: Control de flux
+
+    3. If i comparació
+    (Primera introducció a condicions amb if.)
+
+    4. Cond amb diversos casos
+    (Control de flux més avançat amb cond i múltiples branques.)
+
+Fase 3: Àmbit i estructures
+
+    5. Let per àmbit local
+    (Introducció a l'àmbit local amb let.)
+
+    6. Let niat
+    (Nivell més avançat d'ús de let amb niats.)
+
+Fase 4: Treball amb llistes
+
+    7. Reutilització de funció i recursió amb llistes
+    (Recursió per calcular longitud d'una llista.)
+
+    8. Llista buida, car, cdr, cons
+    (Operacions bàsiques amb llistes.)
+
+    9. Filter amb llista buida i no buida
+    (Exemple d'una funció d'ordre superior aplicada a llistes.)
+
+    10. Llistes dins de llistes, de llista a enter
+    (Treball amb llistes aniuades i accés als seus elements.)
+
+    11. Multiplicació recursiva de llista
+    (Introducció a una operació recursiva avançada sobre llistes.)
+
+Fase 5: Funcions i booleans
+
+    12. Booleans
+    (Treball amb operadors lògics and, or, i not.)
+
+    13. Més comparacions
+    (Comparacions avançades amb múltiples operadors.)
+
+    14. Aplica diversos cops (ordre superior)
+    (Ús d'una funció d'ordre superior per aplicar repetició.)
+
+    15. Barreja d'operacions lògiques
+    (Combinació d'operacions lògiques i aritmètiques.)
+
+    16. Reducció (fold)
+    (Introducció a fold per acumular resultats.)
+
+    17. Recursivitat amb map i factorial
+    (Combina una funció d'ordre superior amb recursivitat.)
+
+Fase 6: Entrada de dades
+
+    18. Read en bucle recursiu
+    (Llegeix dades en un bucle recursiu, procés interactiu.)
+
+    19. Display, read amb let i newline
+    (Combina entrada, sortida i àmbit local amb let.)
+
+Fase 7: Casos especials i límits
+
+    20. Reassignació global (no es pot, excepció)
+    (Demostra que reassignar globals genera excepcions.)
+
+    21. Definim constants abans i després del main
+    (Explora l'ordre d'execució i definició.)
+
+    22. Cridar funció global dins de let
+    (Ús avançat de funcions globals dins d'àmbits locals.)
+
+    23. Condicional encadenat amb negatiu de paràmetre
+    (Treball amb condicions i paràmetres negatius.)
+
+    24. Dos mains?
+    (Explora el comportament en cas de múltiples definicions de main.)
+
+    25. Llista gran
+    (Processament d'una llista gran per provar límits d'eficiència.) 
+    (Amb 82 salta excepció "RecursionError: maximum recursion depth exceeded")

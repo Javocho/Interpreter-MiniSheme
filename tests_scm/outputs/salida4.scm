@@ -1,0 +1,3 @@
+negativo
+cero
+positivo

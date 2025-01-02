@@ -1,0 +1,10 @@
+(define a 5)
+(define b 10)
+
+(define (main)
+  (display (and (> b a) (= a 5)))
+  (newline)
+  (display (or (< b a) (= b 10)))
+  (newline)
+  (display (not (> a b)))
+  (newline))

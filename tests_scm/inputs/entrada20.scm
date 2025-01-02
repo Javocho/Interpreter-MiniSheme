@@ -1,0 +1,8 @@
+(define x 5)
+(display x)
+(newline)
+(define x 10)
+(display x)
+(newline)
+(display (+ x 5))
+(newline)
