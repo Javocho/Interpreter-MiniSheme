@@ -1,4 +1,3 @@
-ANTLR=antlr-4.13.2-complete.jar
 NAME=scheme.g4
 
 all: schemeLexer.py schemeParser.py schemeVisitor.py
